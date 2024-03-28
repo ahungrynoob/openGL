@@ -70,6 +70,7 @@
     "memory": "cpp",
     "system_error": "cpp",
     "type_traits": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "filesystem": "cpp"
   }
 }
