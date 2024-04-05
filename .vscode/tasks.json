@@ -12,6 +12,7 @@
         "-I${workspaceFolder}/include",
         "-L${workspaceFolder}/lib",
         "${workspaceFolder}/lib/libglfw.3.4.dylib",
+        "${workspaceFolder}/lib/libassimp.3.1.1.dylib",
         "${workspaceFolder}/src/*.cpp",
         "${workspaceFolder}/src/glad.c",
         "-o",
